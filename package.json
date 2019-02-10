@@ -1,0 +1,22 @@
+{
+  "name": "simplicated",
+  "version": "1.0.0",
+  "description": "Create Files and add custom text",
+  "main": "cli.js",
+  "bin": {
+    "simple": "cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meggyclarke/Simplicated.git"
+  },
+  "author": "Meg Clarke",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "homepage": "https://github.com/meggyclarke/Simplicated#readme"
+}
