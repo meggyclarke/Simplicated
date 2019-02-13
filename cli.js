@@ -8,7 +8,7 @@ var path = require('path');
 //name passed in command line
 let startLocation = process.argv[2];
  //For this example copy into the comand line:
- // node cli /myFolder/someSubFolder/twoDeepFolder/underground/someOriginalText.java'
+ // node cli /myFolder/someSubFolder/twoDeepFolder/underground/someOriginalText.java
 let finishLocation = "/myBetterFinishedFolder";
 
 let customWord = '_calc';
