@@ -1,6 +1,6 @@
 {
   "name": "simplicated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create Files and add custom text",
   "main": "cli.js",
   "bin": {
